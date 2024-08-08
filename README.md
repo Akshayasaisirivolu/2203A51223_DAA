@@ -14,5 +14,5 @@ WEEK-3:[1_1_GN](https://github.com/Akshayasaisirivolu/2203A51223_DAA/blob/main/W
 [1_2_KJ](https://github.com/Akshayasaisirivolu/2203A51223_DAA/blob/main/WEEK1_2_KJ.c)
 [1_2_SKM](https://github.com/Akshayasaisirivolu/2203A51223_DAA/blob/main/WEEK1_2_SKM.c)
 [1_3_GN](https://github.com/Akshayasaisirivolu/2203A51223_DAA/blob/main/WEEK1_3_GN.c)
-[1_3_KJ]()
+[1_3_KJ](https://github.com/Akshayasaisirivolu/2203A51223_DAA/blob/main/WEEK1_3_KJ.c)
 [1_3_SKM]()
