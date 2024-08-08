@@ -1,5 +1,5 @@
 WEEK-1:[ADDITION OF MATRIX](https://github.com/Akshayasaisirivolu/2203A51223_DAA/blob/main/addmatrix.c)
-       [SUBTRACTION OF MATRIX]()
+       [SUBTRACTION OF MATRIX](https://github.com/Akshayasaisirivolu/2203A51223_DAA/blob/main/submatrix.c)
        [MULTIPLICATION OF MATRIX]()
 
 
