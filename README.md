@@ -10,3 +10,6 @@ WEEK-2:[BUBBLE SORT](https://github.com/Akshayasaisirivolu/2203A51223_DAA/blob/m
 WEEK-3:[1_1_GN](https://github.com/Akshayasaisirivolu/2203A51223_DAA/blob/main/WEEK1_1_GN.c)
        [1_1_KJ](https://github.com/Akshayasaisirivolu/2203A51223_DAA/blob/main/WEEK1_1_KJ.c)
        [1_1_SKM](https://github.com/Akshayasaisirivolu/2203A51223_DAA/blob/main/WEEK1_1_KJ.c)
+[1_2_GN](https://github.com/Akshayasaisirivolu/2203A51223_DAA/blob/main/WEEK1_2_GN.c)
+[1_2_KJ]()
+[1_2_SKM]()
