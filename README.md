@@ -1,3 +1,4 @@
 WEEK-1:[BUBBLE SORT](https://github.com/Akshayasaisirivolu/2203A51223_DAA/blob/main/bubblesort.c)
-       [INSERTION SORT]()
+       [INSERTION SORT](https://github.com/Akshayasaisirivolu/2203A51223_DAA/blob/main/insertionsort.exe)
+       [MERGE SORT]()
 
